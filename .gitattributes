@@ -1,0 +1,2 @@
+landslide_ml/data/weather_records.db filter=lfs diff=lfs merge=lfs -text
+landslide_ml/data/india_weather_rainfall_data.xlsx filter=lfs diff=lfs merge=lfs -text
