@@ -9,6 +9,19 @@
 
 ---
 
+## GitHub Repository
+
+The project is hosted at [github.com/sayansaha420/Dhara](https://github.com/sayansaha420/Dhara). Clone it with Git LFS installed so the large datasets are downloaded correctly:
+
+```bash
+git lfs install
+git clone https://github.com/sayansaha420/Dhara.git
+```
+
+The files `landslide_ml/data/weather_records.db` and `landslide_ml/data/india_weather_rainfall_data.xlsx` are stored with Git LFS.
+
+---
+
 ## 🌟 Key Features
 
 1. **User Authentication & Database Security**:
